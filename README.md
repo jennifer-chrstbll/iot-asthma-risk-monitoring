@@ -157,7 +157,6 @@ The Random Forest model achieved the best performance with perfect classificatio
 iot-asthma-risk-monitoring/
 │
 ├── README.md
-├── requirements.txt
 ├── asthma_risk_analysis.ipynb
 │
 ├── paper/
@@ -170,11 +169,11 @@ iot-asthma-risk-monitoring/
 │   ├── risk_distribution.png
 │   └── average_parameters.png
 │
-├── arduino/
-│   └── esp8266_sensor_code.ino
 │
 └── data/
-    └── sample_dataset.csv
+    ├── food_junction.csv
+    ├── kelas.csv
+    └── library.csv
 ```
 
 ---
